@@ -24,7 +24,7 @@
    ```bash
    git clone https://github.com/Erfeng_V/spark-push-kafka.git
 
-2. 继承成JobPushTemplate 类，并实现push方法
+2. 继承JobPushTemplate 类，并实现push方法
 
 
 ## 代码结构
