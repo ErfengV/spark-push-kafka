@@ -1,0 +1,4 @@
+com\yf\push\job\goods\GoodsWarePushImpl.class
+com\yf\push\job\goods\bean\GoodsReCalcAutoStkResult.class
+com\yf\push\job\JobPushTemplate.class
+com\yf\push\util\RowUtils.class
